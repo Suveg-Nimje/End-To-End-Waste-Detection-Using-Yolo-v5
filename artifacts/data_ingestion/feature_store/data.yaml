@@ -1,5 +1,5 @@
-train: ../train/images
-valid: ../valid/images
+train: ../data/train/images
+val: ../data/valid/images
 
 nc: 4
 names: ['Banana', 'Drink can', 'Chilli', 'Smart Phone']
